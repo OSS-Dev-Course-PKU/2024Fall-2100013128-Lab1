@@ -18,3 +18,7 @@ The project will be carried out in the following phases:
 - **Compilation of the Standard Library**: Compile the Rust standard library using the newly developed C backend, ensuring its ability to handle core functionalities present in most Rust programs.
 - **Validation through Test Suites**: Execute the Rust test suite using the C backend to ensure that it generates C code functionally equivalent to the original Rust code.
 - **Code Optimization**: Enhance the performance and readability of the generated C code by implementing optimizations, potentially incorporating transformations and tailoring the output for specific C compiler optimizations.
+
+## License
+
+This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).
