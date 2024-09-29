@@ -1,6 +1,6 @@
 # Plan for OSSDev 2024
 
-The goal of this initiative is to contribute to the Rust compiler by developing a new code generation backend — the C codegen backend.
+The goal of this semester is to contribute to the Rust compiler by developing a new code generation backend — the C codegen backend.
 
 ## Background
 
